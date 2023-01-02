@@ -4,3 +4,5 @@ navBar with Hamburger feature
 service section
 portfolio section
 testimony section
+contact section
+footer section
